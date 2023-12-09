@@ -23,7 +23,7 @@ Ketik perintah di terminal project untuk menghapus hasil file game
 rm -R -f n2048 n2048.dSYM
 ```
 
-## Capture Game
+## Screen Shoot Tampilan Game
 
 ![alt text](https://github.com/Innulaa/ddp-project-game/blob/master/screenshoot-project-game.png?raw=true)
 
