@@ -14,6 +14,7 @@ Setelah berhasil di build, makan akan terbuat file n2048, lalu running file ters
 ```sh
 ./n2048
 ```
+
 ## Cara Uninstall Game
 
 Ketik perintah di terminal project untuk menghapus hasil file game 
@@ -21,6 +22,10 @@ Ketik perintah di terminal project untuk menghapus hasil file game
 ```sh
 rm -R -f n2048 n2048.dSYM
 ```
+
+## Capture Game
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/screenshoot-project-game.png?raw=true)
 
 
 ## Petunjuk Main
