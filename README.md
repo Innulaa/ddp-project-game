@@ -25,7 +25,7 @@ rm -R -f n2048 n2048.dSYM
 
 ## Capture Game
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/screenshoot-project-game.png?raw=true)
+![alt text](https://github.com/Innulaa/ddp-project-game/blob/master/screenshoot-project-game.png?raw=true)
 
 
 ## Petunjuk Main
