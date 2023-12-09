@@ -40,3 +40,5 @@ Berikut petunjuk dalam bermain game n2048
 
 Berikut contributor dalam project ini
 
+@all-contributors please add @ClaraaMon0o0 
+
